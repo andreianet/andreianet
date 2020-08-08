@@ -10,6 +10,6 @@ Estou sempre em constante aprendizado :)
 
 E se, não estou na frente do notebook, aproveito a família(marido e filhos)
 
-Segue abaixo meus contatos:
-[GitHub]https://github.com/andreianet
+Segue abaixo meus contatos:<br>
+[GitHub]https://github.com/andreianet <br>
 [Linkedin]https://www.linkedin.com/in/andreia-cardoso-56b04066/

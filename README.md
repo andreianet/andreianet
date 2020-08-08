@@ -1,16 +1,15 @@
 ### Hi there 👋
+## My Bio
+![Github Logo](./img/girl-ti.svg)
 
-<!--
-**andreianet/andreianet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Andreia Cardoso, sou formada em Análise e Desenvolvimento de Sistemas e Pós-Graduação em Desenvolvimento Web e Mobile. 
+Sempre trabalhei na área de Suporte Técnico(TI), tendo experiência há mais de 10 anos. Porém, atualmente querendo migrar de cargo. Buscando uma nova oportunidade!
 
-Here are some ideas to get you started:
+Gosto muito das áreas de Desenvolvimento, Mobile, Tester, Banco de Dados e me apaixonando por Data Science. 
+Estou sempre em constante aprendizado :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+E se, não estou na frente do notebook, aproveito a família(marido e filhos)
+
+Segue abaixo meus contatos:
+[GitHub]https://github.com/andreianet
+[Linkedin]https://www.linkedin.com/in/andreia-cardoso-56b04066/

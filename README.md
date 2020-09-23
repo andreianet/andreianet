@@ -6,7 +6,7 @@
 <i>Gosto muito das áreas de Desenvolvimento, Mobile, Banco de Dados e Data Science. Estou sempre em constante aprendizado :) 
 Linguagens de estudos/aprendizados: Java | Kotlin | Python</i>
 
-<i>Atualmente sou aluna de Back-End da RePrograma(XP Inc.)</i>
+<i>Atualmente sou aluna de Back-End da RePrograma(XP Inc.)</i><br>
 ###Tecnologias utilizadas neste curso:
 <img src="https://img.shields.io/badge/Back%20End-Node.js-green">
 <img src="https://img.shields.io/badge/JS-JavaScript-black">

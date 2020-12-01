@@ -10,7 +10,7 @@ Linguagens de estudos/aprendizados: Java | Kotlin | Python | JS </i>
 Tecnologias utilizadas neste curso:
 <img src="https://img.shields.io/badge/Back%20End-Node.js-brightgreen">
 <img src="https://img.shields.io/badge/JS-JavaScript-black">
-<img srv="https://img.shields.io/badge/MongoDB-NoSQL-blue">
+<img src="https://img.shields.io/badge/MongoDB-NoSQL-blue">
 
 
 Segue meus contatos:<br>

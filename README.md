@@ -8,7 +8,7 @@
 - 👍 Gosto: Games | Byke | Music | Beer | Coffee | Churrasco | 💗 Amo: My Family
 
 Formações Recentes:
-- Salesforce Commerce Cloud **Gama Academy(Accademia Accenture)**
+- Salesforce Commerce Cloud pela **Gama Academy(Accademia Accenture)**
 - Curso de Back-End em NodeJS pela **RePrograma(XP Inc.)**
 
 

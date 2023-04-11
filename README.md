@@ -1,9 +1,9 @@
 ### Hi, I'm Andréia Cardoso 👋👩‍💻
 
-<i>Formada em 🎓Análise e Desenvolvimento de Sistemas(Fatec de Garça/SP) e 🎓Pós-Graduação em Desenvolvimento Web e Mobile(Univem de Marília/SP). Sempre trabalhei na área de Suporte Técnico(como Analista de Suporte), tendo experiência há mais de 10 anos. Mas, no ano de 2021, fui contratada pela Accenture como Analista Pleno, para o time de Build | Ecommerce, trabalhando no desenvolvimento de projetos com a plataforma Magento. Adorando todo conhecimento e aprendizado contínuo</i>🚀 
+<i>Formada em 🎓Análise e Desenvolvimento de Sistemas(Fatec de Garça/SP) e 🎓Pós-Graduação em Desenvolvimento Web e Mobile(Univem de Marília/SP). Sempre trabalhei na área de Suporte Técnico(como Analista de Suporte), tendo experiência há mais de 10 anos. Mas, no ano de 2021, fui contratada pela Accenture como Analista Pleno, para o time de Build | Ecommerce. Adorando todo conhecimento e aprendizado contínuo</i>🚀 
 
 - 🎯 Áreas de Interesse: Desenvolvimento | Mobile | DB | Data Science | Ecommerce
-- 📚 Aprendizado continuado: Javascript | Nodejs | Java | Spring | MongoDB | MySQL | PostgreSQL | Magento 
+- 📚 Aprendizado continuado: Javascript | Nodejs | Java | Spring | MongoDB | MySQL | PostgreSQL | Magento | SAP Hybris
 - 👍 Gosto: Games | Byke | Music | Beer | Coffee | Churrasco | 💗 Amo: My Family
 
 Formações Recentes:
